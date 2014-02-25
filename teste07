@@ -10,7 +10,7 @@ int main(int argc, char *argv[]){
     printf("Informe uma altura : :\n");
     scanf("%f", &altura);
 
-    pesoIdeal = (72.7*altura) – 58;
+    pesoIdeal = ((72.7*altura) – 58);
 
-    printf("O peso ideal desta pessoa é : %f00.00\n", pesoIdeal);
+    printf("O peso ideal desta pessoa é : %00.00f\n", pesoIdeal);
 }
