@@ -12,5 +12,5 @@ int main(int argc, char *argv[]){
 
     pesoIdeal = ((72.7*altura) – 58);
 
-    printf("O peso ideal desta pessoa é : %00.00f\n", pesoIdeal);
+    printf("O peso ideal desta pessoa é : %0.2f\n", pesoIdeal);
 }
