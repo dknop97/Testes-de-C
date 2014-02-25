@@ -1,7 +1,7 @@
 //Teste07.c
 
-#include <stdio.h>;
-#include <stdlib.h>;
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char *argv[]){
     float altura = 0.0, pesoIdeal = 0.0;
